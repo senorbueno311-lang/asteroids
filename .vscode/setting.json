@@ -1,0 +1,24 @@
+{
+        "editor.fontFamily": "Fira Code, Courier New, Consolas, monospace",
+        "editor.fontLigatures": true,
+        "editor.fontSize": 16,
+        "terminal.integrated.fontFamily": "Fira Code",
+        "terminal.integrated.fontLigatures.enabled": false,
+
+
+        "python.envManager": "ms-python.python:system",
+        "python.defaultInterpreterPath": "python3",
+
+
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.renderWhitespace": "none",
+        "editor.minimap.enabled": false,
+
+
+        "editor.hover.enabled": "on",
+        "editor.hover.above": true,
+        "editor.hover.delay": 500,
+        "editor.hover.sticky": true,
+        "editor.hover.hidingDelay": 200
+}
